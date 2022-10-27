@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+.git
+.tmp/
+.cache/
+.git/
+build/
+node_modules/
+data/
