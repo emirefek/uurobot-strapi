@@ -32,6 +32,11 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::member.member"
+    },
+    "sponsors": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::sponsor.sponsor"
     }
   }
 }
