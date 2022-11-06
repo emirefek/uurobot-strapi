@@ -37,6 +37,10 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::sponsor.sponsor"
+    },
+    "longcontent": {
+      "type": "richtext",
+      "required": false
     }
   }
 }
